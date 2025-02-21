@@ -58,4 +58,4 @@ Analytics Film es una aplicación de escritorio en **Java (Swing)** con conexió
 
 ### 2️⃣ Clonar el repositorio
 ```bash
-git clone https://github.com/TU-USUARIO/Analytics-Film.git
+git clone https://github.com/JaviiRoo/Analytics-Film.git
